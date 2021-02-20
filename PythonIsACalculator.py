@@ -25,7 +25,7 @@ def main():
     print('Div of numbers:')
     print(91 / 14)
     print(1024 / 8)
-    print(345.23 / -234 )
+    print(345.23 / -235 )
 
     # Mod
     print('Mod of numbers:')

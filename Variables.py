@@ -13,11 +13,11 @@ def main():
     d = y % z
     e = y / z
 
-    print(a)
-    print(b)
-    print(c)
-    print(d)
-    print(e)
+    print('a:', a)
+    print('b:', b)
+    print('c:', c)
+    print('d:', d)
+    print('e:', e)
     
 if __name__ == '__main__':
     main()

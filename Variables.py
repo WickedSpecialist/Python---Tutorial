@@ -1,7 +1,7 @@
 
 
 def main():
-    print('Variables: \n')
+    print('Variables:')
 
     x = 'Hello, World'
     y = 123.234
@@ -13,7 +13,7 @@ def main():
     d = y % z
     e = y / z
 
-    print('a:', a)
+    print('\na:', a)
     print('b:', b)
     print('c:', c)
     print('d:', d)

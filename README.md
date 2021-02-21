@@ -13,4 +13,4 @@ If you are having any issue with downloading the files or running them on</br>
 your system, feel free to contact me using the following options:</br>
 
 YouTube:    https://bit.ly/3kcoVPx</br>
-Twitter:    https://twitter.com/WickedSpeciali4/
+Twitter:    https://bit.ly/37ymceg

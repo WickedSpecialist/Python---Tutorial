@@ -1,8 +1,12 @@
-# Python - Tutorial
+# Python3 - Tutorial
 
- Here you can find every script I create in my Python3 tutorials.</br>
+Here I upload python scripts, which are discussed on my youtube playlist.</br>
 
- You can easily download all of them and play around with them</br>
- in order to become more experienced pyhton programmers.
+## Usage
+Just click the @iconCopy</br>
+<span class="iconify" data-icon="mdi-language-markdown" data-inline="false"></span>
 
- HAVE FUN PROGRAMMING!
+You can easily download all of them and play around with them</br>
+in order to become more experienced pyhton programmers.
+
+HAVE FUN PROGRAMMING!

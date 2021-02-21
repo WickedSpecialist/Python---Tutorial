@@ -12,8 +12,5 @@ and start programming.</br>
 If you are having any issue with downloading the files or running them on</br>
 your system, feel free to contact me using the following options:</br>
 
-### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Puzzle Icon
-{: #puzzle}
-
 YouTube: https://bit.ly/3kcoVPx</br>
 Twitter: https://twitter.com/WickedSpeciali4/
